@@ -1,4 +1,4 @@
-# react-native-ble-plx-example
+# react-native-ble-plx-demo
 react-native-ble-plx-example
 
 Project Desription : 
